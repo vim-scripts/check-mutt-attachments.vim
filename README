@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1015
+
+When using Vim to write an email from say Mutt, one can mention things like "I am attaching the email I was telling you about" and then forget to attach it.
+
+This script prompts the user when exiting Vim pointing out that an attachment is mentioned in the message, and that may require something attached to the message.
+
+This implements a suggestion made at: http://groups.google.fr/groups?hl=fr&lr=&ie=UTF-8&selm=caq406%24rq4%241%40FreeBSD.csie.NCTU.edu.tw
